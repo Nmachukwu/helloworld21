@@ -1,2 +1,3 @@
-# helloworld21
-helloworld this my practice repository
+# maven-project
+
+Simple Maven Project
